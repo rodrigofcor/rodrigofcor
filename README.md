@@ -1,7 +1,7 @@
 Hi 👋 My name is Rodrigo Fagundes Coruja
 ========================================
 
-Web and Mobile Developer
+Web and mobile developer
 ------------------------
 
 * 🌍  I'm based in Brasil, Rio Grande do Sul, Porto Alegre
