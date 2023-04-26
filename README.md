@@ -6,7 +6,6 @@ Web and mobile developer
 
 * 🌍  I'm based in Brasil, Rio Grande do Sul, Porto Alegre
 * ✉️  You can contact me at [rodrigofagundescoruja@gmail.com](mailto:rodrigofagundescoruja@gmail.com)
-* 🚀  I'm currently working on [Cabik](http://github.com/rodrigofcor/cabik)
 
 ### Skills
 
